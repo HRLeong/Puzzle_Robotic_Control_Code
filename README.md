@@ -2,6 +2,8 @@
 
 This code base is used in the PULSAR project for ESP3902 Major Design Project I at the National University of Singapore. This includes the code for running the YOLOv5 model as well as the library to inteface with the Rotrics DexArm as well as the Arduino Mega 2560
 
+![This is the project setup](https://user-images.githubusercontent.com/95577932/202489303-bc66bcc2-84f1-4c74-88e2-96a8cd133a6c.png)
+
 ## System Requirements 
 ### Python libraries and environment
 This project uses Python 3.10.8 in Visual Studio Code with the following libraries and dependencies:
